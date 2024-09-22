@@ -1,0 +1,6 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/task-manager-frontend/node_modules
+/task-manager-backend/node_modules
+/task-manager-backend/.env
